@@ -3,7 +3,7 @@
 
 pip install Crypte
 
-pypi.org/project/Crypte/
+https://pypi.org/project/Crypte/
 
 Usage > Python 3.8
 
